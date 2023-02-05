@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="hamdi-anıl-hacıhaliloğlu" />
   </a>
   <a href="https://twitter.com/hho_hamdianil" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mstrYoda_?logo=twitter&style=for-the-badge" alt="hho_hamdianil" />
+    <img src="https://img.shields.io/twitter/follow/hho_hamdianil_?logo=twitter&style=for-the-badge" alt="hho_hamdianil" />
   </a>
   <a href="https://stackoverflow.com/users/21151046/rangergrove" target="blank">
     <img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="https://stackoverflow.com/users/21151046/rangergrove" />
