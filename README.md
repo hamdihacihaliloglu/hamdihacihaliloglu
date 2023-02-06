@@ -1,20 +1,26 @@
 ### Hi everyone 👋
 
-Here are some ideas to get you started:
+![Counter](https://komarev.com/ghpvc/?username=hamdihacihaliloglu&color=blue)
 
-- 🔭 I’m currently working on PHP and Web Development
-- 🌱 I’m currently learning Go Programming
-- 👯 I’m looking to collaborate with anyone with any project
-- ⚡ Fun fact: I love to research and use the keyboard
 
-## ✉️ Find me on:
-
+<h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
- 
-<a href="https://www.linkedin.com/in/hamdi-anıl-hacıhaliloğlu/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
-
+  <samp>Jr. Software Developer </samp>
 </p>
-<br />
+
+## Find me on:
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamdi-an%C4%B1l-hac%C4%B1halilo%C4%9Flu/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="hamdi-anıl-hacıhaliloğlu" />
+  </a>
+  <a href="https://twitter.com/hho_hamdianil" target="blank">
+    <img src="https://img.shields.io/twitter/follow/hho_hamdianil_?logo=twitter&style=for-the-badge" alt="hho_hamdianil" />
+  </a>
+  <a href="https://stackoverflow.com/users/21151046/rangergrove" target="blank">
+    <img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="https://stackoverflow.com/users/21151046/rangergrove" />
+  </a>
+</p>
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -31,4 +37,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="Json" height="40" style="vertical-align:top; margin:4px">
 
   
+</p>
+
+
+<h2 align="center">:bar_chart: Stats </h2>
+<p align="left">
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=hamdihacihaliloglu&show_icons=true&theme=white"/>
+ 
 </p>
