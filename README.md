@@ -5,7 +5,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Jr. Software Developer </samp><br/>
+  <samp>Jr. Backend Developer | PHP |GO | LARAVEL </samp><br/>
   - 🔭 I’m currently working on PHP and Web Development <br/>
   - 🌱 I’m currently learning Go Programming <br/>
 </p>
